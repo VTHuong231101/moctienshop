@@ -1,0 +1,7 @@
+header h1 {
+  color: rgb(117, 54, 37);
+}
+
+.header__menu {
+  position: absolute;
+}
